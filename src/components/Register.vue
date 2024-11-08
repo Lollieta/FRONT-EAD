@@ -1,6 +1,6 @@
 <template>
 	<v-container class="mt-15">
-		<v-card class="mx-auto bg-transparent" max-width="500px">
+		<v-card class="mx-auto bg-transparent" max-width="500px" variant="flat">
 			<v-card-title class="mt-15 font-weight-bold">CADASTRO</v-card-title>
 		</v-card>
 		<v-card class="mx-auto bg-support" rounded="xl" max-width="500px">
